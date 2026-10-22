@@ -9,7 +9,7 @@
 ## Habilidades
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheuscot)
 [![python](https://img.shields.io/badge/Python-200?style=for-the-badge&logo=python&logocolor=red)]()
-[![SQL](https://img.shields.io/badge/sql-200?style=for-the-badge&logo=sql&logocolor=blue&bg_color=blue)]()
+[![SQL](https://img.shields.io/badge/sql-1000?style=for-the-badge&logo=sql&logocolor=blue)]()
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheuscot&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## GitHub Status
